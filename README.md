@@ -1,2 +1,2 @@
-## catalogos de carros
-### Utilizando linguagem typescript e biblioteca React
+## Catálogo de carros
+### Utilizando linguagem TypeScript e biblioteca React
